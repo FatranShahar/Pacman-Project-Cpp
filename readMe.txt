@@ -1,0 +1,10 @@
+מגישים : ליהי נחום 209369966 Lihi Nahum
+שחר פטרן 318867272 Shahar Fatran
+
+*Note: please write start before you run the game from cmd in load mode.
+when the player press esc during the game, we added an option to go back to the main menu by pressing 'g' or 'G'.
+In addition, we implemented your notes on exercise 2, apart from avoiding using exit function, we tried to exit 
+the game using a booliean parameter but we haven't succeeded. also we tried to change the recursive structre of the
+functions run and menu, but we didn't have enough tine because it demends a lot of changes.
+
+
